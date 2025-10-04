@@ -1,4 +1,9 @@
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
+import { sdk } from '@farcaster/miniapp-sdk';
+    // MiniApp SDK: Uygulama yüklendiğinde splash screen'i kaldır
+    useEffect(() => {
+        sdk.actions.ready();
+    }, []);
 import { useTranslation } from 'react-i18next';
 import Board from './components/Board';
 import AchievementsPanel from './components/AchievementsPanel';

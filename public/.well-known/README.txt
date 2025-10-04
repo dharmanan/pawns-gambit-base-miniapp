@@ -1,0 +1,1 @@
+This directory contains the farcaster.json manifest for Base Mini App and Farcaster integration.

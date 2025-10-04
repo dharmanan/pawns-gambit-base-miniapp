@@ -30,6 +30,7 @@
     "vite": "^7.1.7"
   },
   "dependencies": {
+    "@farcaster/miniapp-sdk": "^0.1.10",
     "@types/react": "^19.1.15",
     "@types/react-dom": "^19.1.9",
     "i18next": "^25.5.2",

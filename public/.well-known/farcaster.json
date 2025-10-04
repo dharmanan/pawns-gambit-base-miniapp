@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "baseBuilder": {
+    "allowedAddresses": [""]
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Pawn's Gambit (Base)",
+    "homeUrl": "https://pawns-gambit-base-miniapp.vercel.app/",
+    "iconUrl": "https://pawns-gambit-base-miniapp.vercel.app/og-image.png",
+    "splashImageUrl": "https://pawns-gambit-base-miniapp.vercel.app/og-image.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "",
+    "subtitle": "Chess puzzle game",
+    "description": "A chess-based mini game deployed as a Base Miniapp.",
+    "screenshotUrls": [],
+    "primaryCategory": "game",
+    "tags": ["chess", "miniapp", "baseapp"],
+    "heroImageUrl": "https://pawns-gambit-base-miniapp.vercel.app/og-image.png",
+    "tagline": "Play instantly",
+    "ogTitle": "Pawn's Gambit (Base)",
+    "ogDescription": "A chess-based mini game deployed as a Base Miniapp.",
+    "ogImageUrl": "https://pawns-gambit-base-miniapp.vercel.app/og-image.png",
+    "noindex": true
+  }
+}
