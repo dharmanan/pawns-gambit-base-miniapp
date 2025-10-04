@@ -1,5 +1,4 @@
 {
-  "$schema": "https://docs.base.org/mini-apps/miniapp.schema.json",
   "name": "Pawn's Gambit (Base)",
   "description": "An on-chain chess game where every move is an NFT. Play on Base.",
   "iconUrl": "https://pawns-gambit-base-miniapp.vercel.app/og-image.png",
