@@ -1,7 +1,10 @@
 {
+  "id": "pawns-gambit-base-miniapp",
   "name": "Pawns Gambit Miniapp",
   "description": "A chess-based mini game deployed as a Base Miniapp.",
   "url": "https://pawns-gambit-base-miniapp.vercel.app/",
   "icon": "og-image.png",
-  "category": "game"
+  "category": "game",
+  "version": "1.0.0",
+  "author": "dharmanan"
 }
