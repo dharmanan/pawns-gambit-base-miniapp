@@ -2,6 +2,6 @@
   "name": "Pawns Gambit Miniapp",
   "description": "A chess-based mini game deployed as a Base Miniapp.",
   "url": "https://pawns-gambit-base-miniapp.vercel.app/",
-  "icon": "public/og-image.png",
+  "icon": "og-image.png",
   "category": "game"
 }
