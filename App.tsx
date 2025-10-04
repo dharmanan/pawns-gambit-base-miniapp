@@ -30,7 +30,12 @@ const HULK_BADGES_ABI = [
 ];
 
 const App: React.FC = () => {
+    console.log("App component rendered");
     const { t } = useTranslation();
+    useEffect(() => {
+        console.log("Calling sdk.actions.ready()");
+        sdk.actions.ready();
+    }, []);
     // Board her zaman dolu olacak şekilde başlatılır, ama taşlar başlatılmadıysa yok
     const getInitialBoard = () => {
         const currentLevel = LEVELS[0];
